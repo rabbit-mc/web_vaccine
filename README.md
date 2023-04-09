@@ -1,3 +1,4 @@
+小程序端 https://github.com/rabbit-mc/mp_vaccine
 # hello
 
 ## Project setup
