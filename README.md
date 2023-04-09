@@ -1,4 +1,5 @@
 小程序端 https://github.com/rabbit-mc/mp_vaccine
+app.js为node.js后端接口
 # hello
 
 ## Project setup
