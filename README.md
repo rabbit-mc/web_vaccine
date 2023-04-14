@@ -1,26 +1,3 @@
+疫苗预约系统web后台端
 小程序端 https://github.com/rabbit-mc/mp_vaccine
 app.js为node.js后端接口
-# hello
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
